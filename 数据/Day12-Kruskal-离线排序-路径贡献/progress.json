@@ -1,0 +1,44 @@
+{
+ "CF1081D": {
+  "state": "AC",
+  "remote_pid": "CF1081D",
+  "rid": "6a5f78a86d83891bb1bbe853",
+  "used_pid": "CF1081D",
+  "verdict": "AC"
+ },
+ "CF1095F": {
+  "state": "AC",
+  "remote_pid": "CF1095F",
+  "rid": "6a5f7b216d83891bb1bbe8d9",
+  "used_pid": "CF1095F",
+  "verdict": "AC"
+ },
+ "CF1167C": {
+  "state": "AC",
+  "remote_pid": "CF1167C",
+  "rid": "6a5f7b2a6d83891bb1bbe8fe",
+  "used_pid": "CF1167C",
+  "verdict": "AC"
+ },
+ "CF1213G": {
+  "state": "AC",
+  "remote_pid": "CF1213G",
+  "rid": "6a5f7b336d83891bb1bbe923",
+  "used_pid": "CF1213G",
+  "verdict": "AC"
+ },
+ "CF1253D": {
+  "state": "AC",
+  "remote_pid": "CF1253D",
+  "rid": "6a5f78b96d83891bb1bbe886",
+  "used_pid": "CF1253D",
+  "verdict": "AC"
+ },
+ "CF722C": {
+  "state": "AC",
+  "remote_pid": "CF722C",
+  "rid": "6a5f7b3b6d83891bb1bbe948",
+  "used_pid": "CF722C",
+  "verdict": "AC"
+ }
+}
